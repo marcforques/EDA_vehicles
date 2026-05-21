@@ -52,7 +52,7 @@ Durante la limpieza se han corregigo varios problemas:
 - Insight 5: El gráfico de combustible permite ver cuáles son los tipos de combustible más frecuentes en el dataset.
 
 ### 7) Estructura del proyecto
-
+```text
 project/
 ├── main.py
 ├── data/
@@ -71,7 +71,7 @@ project/
 ├── README.md
 ├── .gitignore
 └── requirements.txt
-
+```
 
 ### 8) Cómo ejecutar
 - `pip install -r requirements.txt`
